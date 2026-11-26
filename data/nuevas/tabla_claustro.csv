@@ -1,0 +1,11 @@
+id_claustro,nombre,apellido,rol,id_curso,id_modalidad,id_promocion,id_sede
+1,Noa,Yáñez,TA,0,1,0,0
+2,Saturnina,Benitez,TA,0,1,0,0
+3,Anna,Feliu,TA,1,1,0,0
+4,Rosalva,Ayuso,TA,1,1,0,1
+5,Ana Sofía,Ferrer,TA,1,1,1,1
+6,Angélica,Corral,TA,1,1,1,0
+7,Ariel,Lledó,TA,0,1,0,0
+8,Mario,Prats,LI,1,0,1,1
+9,Luis Ángel,Suárez,LI,1,0,0,0
+10,María Dolores,Diaz,LI,0,0,0,0
